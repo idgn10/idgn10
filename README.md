@@ -1,4 +1,4 @@
-# Hi, I'm Ignacio Díez 👋
+# Ignacio Díez
 
 **Tech Project & Product Manager** based in Madrid, with almost 5 years between business and engineering.
 
